@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InitialParameters>
+<modelCredit>authentic</modelCredit>
+<!--<loanSum>120000</loanSum>-->
+<numberOfPeriods>12</numberOfPeriods>
+<interestRate>7.9</interestRate>
+<date>2020-07</date>
+</InitialParameters>
